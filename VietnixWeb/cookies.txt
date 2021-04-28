@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nghienhoc.xyz	TRUE	/	FALSE	1999999999	PHPSESSID	32316d854d55346b10a56ff88f0737f2
+
